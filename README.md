@@ -5,5 +5,4 @@
 
 ---
 
-![alt text](server.PNG)
 ![alt text](client.PNG)
